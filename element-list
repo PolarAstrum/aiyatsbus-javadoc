@@ -1,0 +1,39 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:cc.polarastrum.aiyatsbus.core.compat/GuardItemChecker.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/compat/GuardItemChecker.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.compat/NPCChecker.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/compat/NPCChecker.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data.registry/Group.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/registry/Group.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data.registry/Rarity.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/registry/Rarity.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data.registry/Target.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/registry/Target.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data.trigger.event/EventResolver.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/trigger/event/EventResolver.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data/AlternativeData.Builder///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/AlternativeData.Builder.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data/BasicData.Builder///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/BasicData.Builder.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data/CheckResult.Failed///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/CheckResult.Failed.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data/CheckResult.Successful///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/CheckResult.Successful.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data/Displayer.Builder///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/Displayer.Builder.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.data/Limitations.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/data/Limitations.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.enchant/FileDefinedHardcodedEnchantment.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/enchant/FileDefinedHardcodedEnchantment.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.enchant/HardcodedEnchantment.Builder///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/enchant/HardcodedEnchantment.Builder.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.event/AiyatsbusBowChargeEvent.Break.Reason///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/event/AiyatsbusBowChargeEvent.Break.Reason.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.event/AiyatsbusBowChargeEvent.Break///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/event/AiyatsbusBowChargeEvent.Break.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.event/AiyatsbusBowChargeEvent.ChargeInfo///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/event/AiyatsbusBowChargeEvent.ChargeInfo.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.event/AiyatsbusBowChargeEvent.Prepare///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/event/AiyatsbusBowChargeEvent.Prepare.html
+$dokka.location:cc.polarastrum.aiyatsbus.core.event/AiyatsbusBowChargeEvent.Released///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/event/AiyatsbusBowChargeEvent.Released.html
+$dokka.location:cc.polarastrum.aiyatsbus.core/AiyatsbusDisplayManager.Settings///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/AiyatsbusDisplayManager.Settings.html
+$dokka.location:cc.polarastrum.aiyatsbus.core/AiyatsbusEnchantmentFilter.Companion///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/AiyatsbusEnchantmentFilter.Companion.html
+$dokka.location:cc.polarastrum.aiyatsbus.core/AiyatsbusSkillHandler.Settings///PointingToDeclaration/cc/polarastrum/aiyatsbus/core/AiyatsbusSkillHandler.Settings.html
+cc.polarastrum.aiyatsbus.core
+cc.polarastrum.aiyatsbus.core.compat
+cc.polarastrum.aiyatsbus.core.data
+cc.polarastrum.aiyatsbus.core.data.registry
+cc.polarastrum.aiyatsbus.core.data.trigger
+cc.polarastrum.aiyatsbus.core.data.trigger.event
+cc.polarastrum.aiyatsbus.core.data.trigger.skill
+cc.polarastrum.aiyatsbus.core.data.trigger.ticker
+cc.polarastrum.aiyatsbus.core.enchant
+cc.polarastrum.aiyatsbus.core.event
+cc.polarastrum.aiyatsbus.core.registration
+cc.polarastrum.aiyatsbus.core.registration.modern
+cc.polarastrum.aiyatsbus.core.script
+cc.polarastrum.aiyatsbus.core.util
+
